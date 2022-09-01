@@ -15,3 +15,5 @@ This week I was given a starter code for a password generator website. I created
 ![This is a screenshot of the final page](./assets/screenshots/ScreenShot7.png)
 
 ### Link
+
+https://chasebinkley.github.io/Challenge3/
